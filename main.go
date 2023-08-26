@@ -16,6 +16,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 )
+// deneme
 
 // version must be set from the contents of VERSION file by go build's
 // -X main.version= option in the Makefile.
